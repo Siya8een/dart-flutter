@@ -1,5 +1,6 @@
-// static type language: if once tye defined can't.f assign dynamically
-// aot and jit compilation
+//DART
+
+
 import 'dart:core';
 import 'dart:io';
 
